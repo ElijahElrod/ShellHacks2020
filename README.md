@@ -1,4 +1,4 @@
-## Catchy Name  Here
+## Convosential
 
 ## Author: Elijah Elrod
-## Purpose: To promote healthier conversations on the Twitter platform
+## Purpose: To check popular keywords on recent tweets for different topics
